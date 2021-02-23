@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'Por favor escriba cuatro números'
+5
+1
+2
+n1
+5
+1
+2
+n2
+5
+1
+2
+n3
+5
+1
+2
+n4
+6
+2
+4
+suma
+5
+n1+n2
+8
+producto
+5
+n3*n4
+4
+1
+97
+'La suma de ',n1,'+',n2,' es de: ',suma, '. El producto de ',n3,' por ',n4, ' es de: ', producto 
+1
