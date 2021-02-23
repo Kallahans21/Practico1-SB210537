@@ -1,0 +1,9 @@
+
+*.sln
+*.suo
+*.exe
+*.config
+*.manifest
+*.cache
+*.pdb
+*.txt
