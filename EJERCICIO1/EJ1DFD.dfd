@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+96
+'Bienvenido, por favor escriba el precio individual de su artículo para poder calcular el total'
+5
+1
+6
+Precio
+4
+1
+57
+'Ahora, escriba la cantidad de productos que usted lleva'
+5
+1
+9
+Productos
+6
+1
+5
+total
+16
+precio*productos
+4
+1
+49
+'El total a pagar por el producto es de: $',total
+1
